@@ -47,10 +47,3 @@ Thumbs.db
 *.flv
 *.mov
 *.wmv
-
-cloud-eureka-server/cloud-eureka-server.iml
-cloud-eureka-server-slave/cloud-eureka-server-slave.iml
-cloud-provider-payment/cloud-provider-payment.iml
-cloud-provider-payment-slave/cloud-provider-payment-slave.iml
-cloud-api-commons/cloud-api-commons.iml
-cloud-consumer-order/cloud-consumer-order.iml
